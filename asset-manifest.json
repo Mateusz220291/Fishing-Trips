@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FishingTrips/static/css/main.7ef36334.chunk.css",
-    "main.js": "/FishingTrips/static/js/main.8de71e90.chunk.js",
-    "main.js.map": "/FishingTrips/static/js/main.8de71e90.chunk.js.map",
+    "main.js": "/FishingTrips/static/js/main.a1a1d430.chunk.js",
+    "main.js.map": "/FishingTrips/static/js/main.a1a1d430.chunk.js.map",
     "runtime-main.js": "/FishingTrips/static/js/runtime-main.e7beb6f8.js",
     "runtime-main.js.map": "/FishingTrips/static/js/runtime-main.e7beb6f8.js.map",
     "static/js/2.44cdb2ae.chunk.js": "/FishingTrips/static/js/2.44cdb2ae.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e7beb6f8.js",
     "static/js/2.44cdb2ae.chunk.js",
     "static/css/main.7ef36334.chunk.css",
-    "static/js/main.8de71e90.chunk.js"
+    "static/js/main.a1a1d430.chunk.js"
   ]
 }
